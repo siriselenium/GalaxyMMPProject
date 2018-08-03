@@ -9,6 +9,7 @@ public class HashMapEx {
 	protected int i;
 	
 	String s;
+	int i;
 	 
 	 public static void main(String[] args) {
 		
