@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class HashMapEx {
 
-	protected int i;
+	 
 	
 	String s;
 	int i;
